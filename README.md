@@ -16,7 +16,7 @@ The objective of this project is to become familiar with the main Interprocess C
 In addition to implementation, I tested my program by running case studies. In this task I were also required to prepare a report, with a maximum length of 5 pages, detailing the design and implementation decisions for the specified functionalities, as well as the evaluation of the case studies. The report should include the URL to the source code of your implementation. This project must be completed in pairs.
 
 ## Requirements
-1 - ```git clone https://github.com/lucastavarex/Distributed-Systems-Course.git```
+1 - ```git clone https://github.com/lucastavarex/Distributed-Systems-Course.git``` <br>
 2 - Install golang in your PC
 
 ### Setup
